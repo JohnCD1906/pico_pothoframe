@@ -16,6 +16,7 @@ Proyecto con RP2040 que muestra imágenes BMP desde una microSD en una pantalla 
 ## Uso
 Colocar imágenes BMP 240x240 en:
 /photos
-
+# Notas
+-agregar instrucciones de uso
 ## Autor
 JohnCD1906
