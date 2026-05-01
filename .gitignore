@@ -1,0 +1,16 @@
+# Build
+/build/
+*.o
+*.elf
+*.uf2
+*.bin
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
